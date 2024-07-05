@@ -1,2 +1,2 @@
-##설명서 \n
+## 설명서 
 - romote repositoy test
